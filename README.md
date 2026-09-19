@@ -84,7 +84,7 @@ learners can focus on the level they are currently preparing for.
 
 ## 🌐 Live Demo
 
-**[Open Kotoba Card](https://YOUR-USERNAME.github.io/kotoba-card/)**
+**[Open Kotoba Card](https://aayushhh13.github.io/jlpt-kotoba-card/)**
 
 Replace `YOUR-USERNAME` with your GitHub username after deploying the
 project.
