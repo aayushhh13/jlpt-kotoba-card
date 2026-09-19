@@ -80,7 +80,7 @@ learners can focus on the level they are currently preparing for.
 
 ### Flashcard Interface
 
-![Kotoba Card Screenshot](screenshot.png)
+![Kotoba Card Screenshot](UI.png)
 
 ## 🌐 Live Demo
 
